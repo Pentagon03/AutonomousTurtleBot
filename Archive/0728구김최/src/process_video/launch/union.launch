@@ -1,5 +1,0 @@
-<launch>
-<node pkg="process_video" type="pub_video" name="pub1"/>
-<node pkg="process_video" type="sub_video" name="sub1"/>
-</launch>
-

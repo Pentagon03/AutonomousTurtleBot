@@ -1,5 +1,0 @@
-<launch>
-<node pkg="test_package1" type="pub1" name="pub00"/>  
-<node pkg="test_package1" type="sub1" name="sub01"/>
-<node pkg="test_package1" type="sub1" name="sub02"/>
-</launch>
