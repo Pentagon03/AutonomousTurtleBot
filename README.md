@@ -1,2 +1,3 @@
 # ROS2020
-Autonomous Vehicle Project using TurtleBot, ROS(C++), OpenCV in Ubuntu, SASA class project, 2020 Spring
+- This is an Autonomous Vehicle Project using TurtleBot, ROS(C++), OpenCV in Ubuntu.
+- SASA(Sejong Arts and Science Academy) Class project, 2020 Spring semester.
